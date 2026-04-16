@@ -1,0 +1,12 @@
+.vscode/
+*.log
+*.tmp
+Thumbs.db
+Desktop.ini
+*.iso
+*.vmdk
+*.vmem
+*.vmsd
+*.vmsn
+*.vmss
+*.nvram
