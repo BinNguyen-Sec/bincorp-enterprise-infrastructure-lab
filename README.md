@@ -355,5 +355,4 @@ This lab demonstrates how multiple enterprise components can be integrated into 
 The value of the project is not just in installing tools, but in validating how they interact through practical security and operational use cases.
 
 # Author Note
-
 This project was built as a practical enterprise infrastructure and security lab for learning, portfolio development, and technical discussion. It reflects hands-on deployment, troubleshooting, and validation rather than purely theoretical design.
